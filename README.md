@@ -1,9 +1,9 @@
 # Camera-App
 Camera Application with express
 
-# Run "npm install"
+# Step 1-> Run "npm install"
 
-# Run "node app"
+# Step 2-> Run "node app"
 
-# Go to "localhost:3000/"
+# Step 3-> Go to "localhost:3000/"
 
